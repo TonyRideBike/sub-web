@@ -235,6 +235,16 @@ export default {
         backendOptions: [{ value: "http://127.0.0.1:25500/sub?" }],
         remoteConfig: [
           {
+            label: "private",
+            options: [
+              {
+                label: "ACL4SSR Tony Forked",
+                value:
+                  ""
+              }
+            ]
+          },
+          {
             label: "universal",
             options: [
               {

@@ -240,7 +240,7 @@ export default {
               {
                 label: "ACL4SSR Tony Forked",
                 value:
-                  ""
+                  "https://raw.githubusercontent.com/TonyRideBike/ACL4SSR/refs/heads/master/Clash/config/ACL4SSR_Online_Full_MultiMode.ini"
               }
             ]
           },

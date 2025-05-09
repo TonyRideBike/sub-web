@@ -238,7 +238,7 @@ export default {
             label: "private",
             options: [
               {
-                label: "ACL4SSR Tony Forked",
+                label: "ACL4SSR Forked online full multimode",
                 value:
                   "https://raw.githubusercontent.com/TonyRideBike/ACL4SSR/refs/heads/master/Clash/config/ACL4SSR_Online_Full_MultiMode.ini"
               }
